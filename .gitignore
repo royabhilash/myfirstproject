@@ -1,4 +1,4 @@
 #ignore log files in the directory
-*.log
+
 #ignore exe files
 *.exe
